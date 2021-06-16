@@ -1,0 +1,32 @@
+privado solo dentro de la misma clase se puede acceder
+protected solo ella y las clases que heredan de ella pueden hacerlo
+
+polimorfismo : abstraccion
+
+las interfaces las definimos para luegos implementarlas cuantas veces las necesitemos
+
+ECMAScript 2015 - ES6
+arrow function 
+let, const 
+
+The let keyword
+The const keyword
+JavaScript Arrow Functions
+JavaScript For/of
+JavaScript Classes
+JavaScript Promises
+JavaScript Symbol
+Default Parameters
+Function Rest Parameter
+Array.find()
+Array.findIndex()
+New Math Methods
+New Number Properties
+New Number Methods
+New Global Methods
+JavaScript Modules
+
+interfaces: nos permite la herencia multiple.
+Son contracto entre las interfaces y las clases,
+porque las mismas (clases) tienen que implementar todos los metodos u atributos
+que contiene dicha interfaz
